@@ -1,2 +1,4 @@
 # Demo1
-This is my fisrt git repository
+This is my first git repository.
+<br>
+Name : Dinal Prajapati
